@@ -14,6 +14,7 @@ O Fidget facilita isso permitindo que usuário envie um ou mais feedbacks catego
 ## Tecnologias
 Para manter o projeto simples e útil o projeto foi construindo usando tecnologias de fácil implementação e com resultados grandes
 ### Front-end
+[Link do projeto](https://github.com/Guigalaverna/fidget-web)
 - Vite.js
 - React
 - TypeScript
@@ -23,6 +24,7 @@ Para manter o projeto simples e útil o projeto foi construindo usando tecnologi
 - HeadlessUI
 
 ### Back-end
+[Link do projeto](https://github.com/Guigalaverna/fidget-server)
 - Node.js
 - TypeScript
 - Prisma
